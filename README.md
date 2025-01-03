@@ -78,3 +78,10 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Simplify your data analysis and machine learning workflows with **Data Workbench**!
+
+
+## Support the Project
+
+If you find this project helpful and would like to support its development, consider buying me a coffee! 😊
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-yellow)](https://buymeacoffee.com/enkiluv)
